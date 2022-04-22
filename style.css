@@ -1,0 +1,21 @@
+body {
+    min-height: 2000px;
+}
+
+.jumbotron {
+    padding-top: 5rem;
+    background-color: #9bf7cd;
+    background: url("https://images.pexels.com/photos/927414/pexels-photo-927414.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260") no-repeat center center;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    color: #fff;
+}
+
+#content {
+    background-color: #9bf7cd;
+}
+
+section {
+    padding-top: 5rem;
+}
